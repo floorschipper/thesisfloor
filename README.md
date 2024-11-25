@@ -1,7 +1,7 @@
-# thesisfloor
+# Thesis
 This repository contains all the code used for the computations in the MSc thesis *placeholder*. 
 
-# requirements
+# Requirements
 Execution of the code requires the following:
 - Python 3.10
 - SageMath
@@ -14,5 +14,5 @@ Note that `gcaops` by default utilizes all available CPU cores. It is recommende
 
 Increases in cocycles and dimension require increasing amounts of memory. While computation related to gamma 3 up to dimension 4 can be executed on sufficiently powerful consumer hardware, access to a high performance computing cluster might be necessary.
 
-# instructions
+# Instructions
 As the majority of code has the same principles in common it is recommended to start at the code used for the uniqueness aspects of Kontsevich graphs, and continue from there.
