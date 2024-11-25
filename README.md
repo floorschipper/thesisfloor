@@ -1,5 +1,5 @@
 # Thesis
-This repository contains all the code used for the computations in the MSc thesis *placeholder*. 
+This repository contains all the code used for the computations in the MSc thesis *Kontsevich (micro)graph invariants in the geometry of Nambu-Poisson brackets: their nature and constraints*. 
 
 # Requirements
 Execution of the code requires the following:
@@ -16,3 +16,5 @@ Increases in cocycles and dimension require increasing amounts of memory. While 
 
 # Instructions
 As the majority of code has the same principles in common it is recommended to start at the code used for the uniqueness aspects of Kontsevich graphs, and continue from there.
+
+A .rar compressed version of a pickle file that can be used to execute the gamma 5 3d code is included for easier reference.
